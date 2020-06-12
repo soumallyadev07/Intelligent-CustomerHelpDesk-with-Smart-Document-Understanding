@@ -13,3 +13,5 @@ In Watson Discovery I have added ecobee3_userguide.
 I have uploaded a demo video of this project in my google drive: https://drive.google.com/drive/folders/1724P44t3AGFFoez5nvo9GVo4vcSoHeU9?usp=sharing
 
 Node_Red Dasboard link after deploying : https://node-red-grhma.eu-gb.mybluemix.net/ui/#!/0?socketid=IS5_JePArxaD-QDUAAAE
+
+Youtube Video: https://youtu.be/6X6w4m0YZcw
